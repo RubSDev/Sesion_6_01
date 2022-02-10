@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  text-align: center;
+}
+.border {
+  border-radius: 16px;
+  margin: 10px;
+}
+header {
+  background-color: gray;
+  height: 20vh;
+}
+main {
+  height: 50vh;
+  display: flex;
+}
+div {
+  width: 20%;
+  height: 50vh;
+}
+#aside01 {
+  background-color: rgb(29, 181, 247);
+  height: 65%;
+}
+#aside02 {
+  background-color: rgb(255, 93, 93);
+  height: 25%;
+}
+section {
+  background-color: yellow;
+  width: 80%;
+}
+footer {
+  height: 20vh;
+  background-color: plum;
+  margin-top: 20px;
+}
